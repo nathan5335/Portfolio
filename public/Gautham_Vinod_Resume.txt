@@ -1,0 +1,201 @@
+================================================================================
+                         GAUTHAM VINOD
+                    MCA Student | Software Developer
+================================================================================
+
+CONTACT INFORMATION
+Email: gauthamvinod9999@gmail.com
+Phone: +91 7259810009
+Location: Kerala, India
+GitHub: https://github.com/nathan5335
+LinkedIn: https://www.linkedin.com/in/gauthammm-vvinod/
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+Motivated MCA student with strong knowledge in software development, web 
+technologies, and database management. Experienced in building full-stack 
+applications using Python, Django, and modern frontend tools. Passionate about 
+solving real-world problems through innovative solutions. Seeking an 
+entry-level opportunity to grow as a professional developer and contribute to 
+impactful projects.
+
+Skills: Full-stack development | Web Technologies | Database Design | 
+Problem Solving | Team Collaboration
+
+================================================================================
+EDUCATION
+================================================================================
+
+Master of Computer Applications (MCA)
+Mangalam College of Engineering, KTU (Kerala Technological University)
+Duration: 2025 – 2027 (Currently Pursuing)
+
+Bachelor of Computer Applications (BCA)
+BVM Holy Cross College, MG University
+Duration: 2022 – 2025 (Completed)
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+PROGRAMMING LANGUAGES:
+    Python         : 90%  (Expert)
+    JavaScript     : 80%  (Intermediate-Advanced)
+    Java           : 75%  (Intermediate-Advanced)
+    PHP            : 70%  (Intermediate)
+    C              : 65%  (Intermediate)
+
+WEB TECHNOLOGIES:
+    HTML5          : 95%  (Expert)
+    CSS3           : 90%  (Expert)
+    React          : 85%  (Advanced)
+    Bootstrap      : 90%  (Expert)
+    Tailwind CSS   : 85%  (Advanced)
+
+BACKEND & FRAMEWORKS:
+    Django         : 85%  (Advanced)
+    REST APIs      : 80%  (Advanced)
+    Database Design: 80%  (Advanced)
+
+DATABASE MANAGEMENT:
+    MySQL          : 85%  (Advanced)
+    Database Design: 80%  (Advanced)
+    Query Optimization
+
+TOOLS & CONCEPTS:
+    Git & GitHub   : 85%  (Advanced)
+    VS Code        : 90%  (Expert)
+    Linux          : 75%  (Intermediate)
+    OOP            : 85%  (Advanced)
+    DBMS           : 80%  (Advanced)
+
+================================================================================
+PROJECTS & ACHIEVEMENTS
+================================================================================
+
+1. CAR SALES MANAGEMENT SYSTEM
+   Tech Stack: PHP | MySQL | HTML5 | CSS3 | JavaScript
+   
+   A comprehensive web-based system for browsing car listings, placing orders,
+   and managing bookings with role-based access control.
+   
+   Key Features:
+   • Multi-role authentication (Admin, User, Employee)
+   • Advanced car listing and search functionality
+   • Booking and order management system
+   • Customer management dashboard
+   • Notification and confirmation system
+   
+   Impact: Successfully completed with full CRUD operations and user management
+
+2. PIXEL LOCK - SOCIAL MEDIA PRIVACY PLATFORM
+   Tech Stack: Python | Django | MySQL | HTML5 | CSS3 | JavaScript | Android
+   
+   A full-stack privacy-focused social media application with secure messaging
+   and controlled photo sharing capabilities.
+   
+   Key Features:
+   • Secure user authentication system
+   • End-to-end encrypted messaging
+   • Controlled and private image sharing
+   • Privacy-first data protection approach
+   • Cross-platform support (Web + Mobile)
+   
+   Impact: Demonstrated expertise in full-stack development and privacy-focused design
+
+3. LEARNING MANAGEMENT SYSTEM (LMS)
+   Tech Stack: Python | Django | MySQL | HTML5 | CSS3 | JavaScript
+   
+   A comprehensive web-based platform for managing institutional learning
+   resources with role-based access and secure content delivery.
+   
+   Key Features:
+   • Role-based authentication (Admin, Teacher, Student)
+   • Admin panel for account and role management
+   • Teacher module for content and resource management
+   • Student portal for resource browsing and downloads
+   • Secure file upload/download system
+   • Institution-specific content restriction
+   • Dashboard for each user role
+   
+   Impact: Successfully implemented institutional content management solution
+   with 3-tier user roles and secure access control
+
+4. TRAVEL MANAGEMENT SYSTEM (TMS)
+   Tech Stack: Python | Django | MySQL | HTML5 | CSS3 | JavaScript
+   
+   A feature-rich travel management system for comprehensive trip planning,
+   booking coordination, and itinerary management.
+   
+   Key Features:
+   • Trip planning and destination management
+   • Booking system with confirmation
+   • Itinerary planning and organization
+   • Booking history and travel tracking
+   • Cost management and budget tracking
+   
+   Impact: Demonstrated proficiency in full-stack development and business logic
+
+================================================================================
+CAREER INTERESTS
+================================================================================
+
+Primary Focus:
+    • Software Developer
+    • Web Developer (Full Stack)
+    • Full Stack Developer
+
+Secondary Interest:
+    • Game Developer
+
+Career Goal: Secure an entry-level opportunity to leverage technical skills,
+contribute to innovative projects, and grow as a professional developer.
+
+================================================================================
+STRENGTHS & COMPETENCIES
+================================================================================
+
+Technical Strengths:
+    ✓ Full-stack web application development
+    ✓ Database design and optimization
+    ✓ RESTful API development
+    ✓ Responsive UI/UX design
+    ✓ Version control and collaboration (Git/GitHub)
+
+Soft Skills:
+    ✓ Problem-solving and analytical thinking
+    ✓ Quick learner and adaptable
+    ✓ Strong communication skills
+    ✓ Team collaboration
+    ✓ Attention to detail
+
+================================================================================
+ADDITIONAL INFORMATION
+================================================================================
+
+Certifications & Training:
+    • Full Stack Web Development (Self-taught)
+    • Django Framework Development
+    • Database Management Systems
+    • Object-Oriented Programming
+
+Languages:
+    • English (Fluent)
+    • Malayalam (Native)
+
+Professional Interests:
+    • Continuous learning of emerging technologies
+    • Open-source contribution
+    • Teaching and mentoring
+    • Building scalable applications
+
+================================================================================
+REFERENCES
+================================================================================
+
+Available upon request
+
+================================================================================
+Last Updated: March 2026
